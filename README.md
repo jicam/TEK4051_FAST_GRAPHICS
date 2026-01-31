@@ -36,11 +36,11 @@ into three ASCII bytes
 ## 7. FlashDrive header formatting
 File names are adjusted to strictly follow the FlashDrive header structure:
 
-  1-7 File number
-  8-15 ASCII/BINARY
-  16-20 PROG/DATA
-  21-36 COMMENT/Name
-  38 File size (automatic)
+  **1-7** File number
+  **8-15** ASCII/BINARY
+  **16-20** PROG/DATA
+  **21-36** COMMENT/Name
+  **38** File size (automatic)
    
 ## Note: The maximum number of files in a single directory is limited to 250.
 
