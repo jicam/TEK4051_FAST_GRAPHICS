@@ -84,10 +84,33 @@ Then click AUTO LOAD
   
 ## 7- The images are then displayed automatically, one after another, until the last one.
 
-# Viewing another archive
+## Viewing another archive
 
    Once VECTOR1 has finished, you can load 
    ### VECTOR2 by repositioning at point 4.
+
+
+# Using the files on a real TEK 4051 / 4052 / 4054
+
+If, in addition to the 4050 Series Emulator, you are fortunate enough to own a real, operational TEK 4051, 4052, or 4054, and you also have a FlashDrive, you can place these files onto an SD card (up to 256 GB if you wish).
+
+In that case, once the emulator has been loaded with one of the ARCHIVEx.ZIP files, it can be used to automatically create one or more directories on your SD card.
+
+## Procedure
+
+- ***Your drawings are loaded into the emulator using the XXX.ZIP archive.***
+
+- ***Click STORAGE.***
+
+- ***In the small window to the right of IMPORT, select FLASH DRIVE FILES.***
+  
+- ***Click EXPORT.***
+  
+- ***The emulator will create a zipped file.***
+  
+- ***Simply unzip it and copy/paste the contents onto your SD card.***
+
+### Do not forget to reset the FlashDrive microcontroller if you remove and reinsert the SD card.
 
 
 
