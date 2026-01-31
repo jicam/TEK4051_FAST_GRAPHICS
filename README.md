@@ -47,7 +47,7 @@ File names are adjusted to strictly follow the FlashDrive header structure:
    
 ## Note: The maximum number of files in a single directory is limited to 250.
 
-# Viewing the drawings (TEK 4051 simulator)
+# Viewing the drawings (TEK 4051 Emulator)
 
 The first program in the folder is a BASIC program that automatically displays all drawings contained in the directory.
 
